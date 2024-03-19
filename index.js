@@ -5,7 +5,7 @@ const index = () => {
 index();
 
 function quick() {
-  console.log("quick");
+  console.log("quick sort");
 }
 
 quick();
