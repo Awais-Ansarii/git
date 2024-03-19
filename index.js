@@ -7,3 +7,10 @@ const index = () => {
 }
 
 index()
+
+const quick = () => {
+  return console.log("quick");
+};
+
+quick();
+
