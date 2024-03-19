@@ -1,16 +1,11 @@
-
-
 const index = () => {
-  return (
-    console.log('hello')
-  )
-}
-
-index()
-
-const quick = () => {
-  return console.log("quick");
+  return console.log("hello");
 };
 
-quick();
+index();
 
+function quick() {
+  console.log("quick");
+}
+
+quick();
